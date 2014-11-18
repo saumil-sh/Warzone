@@ -33,9 +33,13 @@ v0.1 :
 TODO
 ====
 
-- [ ] Write a better missile generation algorithm
-- [ ] Create stickman_hit animation, and improve animation of being thrown away
-- [x] ~~Add music in the game~~
-- [x] ~~Add slide feature~~
-- [ ] Add powerups in the game
-- [ ] Improve highscore display
+- [ ] Develop A Better Missile Generation Algorithm (Meet)
+- [ ] Stickman Hit-Thrown Away Coding (Meet)
+- [x] ~~Add music in the game (Meet)~~
+- [x] ~~Add slide feature (Meet)~~
+- [ ] Discuss About Power-Ups
+- [ ] Better High-Scores Display
+- [ ] Add Trophy Page (Meet)
+- [ ] Hurdles (Crates etc.) Graphics (Saumil)
+- [ ] Stickman Hit-Thrown Away Animation (Saumil)
+- [ ] Keep Ideas Coming !
