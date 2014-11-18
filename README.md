@@ -35,11 +35,15 @@ TODO
 
 - [ ] Develop A Better Missile Generation Algorithm (Meet)
 - [ ] Stickman Hit-Thrown Away Coding (Meet)
+- [ ] Add Trophy Page (Meet)
 - [x] ~~Add music in the game (Meet)~~
 - [x] ~~Add slide feature (Meet)~~
-- [ ] Discuss About Power-Ups
-- [ ] Better High-Scores Display
-- [ ] Add Trophy Page (Meet)
+
 - [ ] Hurdles (Crates etc.) Graphics (Saumil)
 - [ ] Stickman Hit-Thrown Away Animation (Saumil)
+- [ ] Develop A Better In-Game Music (Saumil)
+
+- [ ] Come Up With A Storyline
+- [ ] Discuss About Power-Ups
+- [ ] Better High-Scores Display
 - [ ] Keep Ideas Coming !
