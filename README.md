@@ -32,6 +32,8 @@ v0.1 :
 
 TODO
 ====
+- [x] ~~Make Saumil Learn Java~~
+- [ ] Understand The Code (Saumil)
 
 - [ ] Develop A Better Missile Generation Algorithm (Meet)
 - [ ] Stickman Hit-Thrown Away Coding (Meet)
